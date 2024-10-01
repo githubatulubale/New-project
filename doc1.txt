@@ -1,1 +1,5 @@
-git practice
+git practice folder
+git clone ""
+git status
+git branch
+
