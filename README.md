@@ -1,2 +1,2 @@
-# New-project
+# My-project
 This is my project.
